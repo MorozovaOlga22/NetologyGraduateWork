@@ -1,0 +1,4 @@
+databaseChangeLog:
+  - include:
+      file: migrations/001-sample.xml
+      relativeToChangeLogFile: true
